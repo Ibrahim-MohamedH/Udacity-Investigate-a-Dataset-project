@@ -9,7 +9,6 @@ In this project, we will analyze a dataset and then communicate our findings abo
 ## File Used:
 
   - Investigate_a_Dataset.ipynb
-    - (For easy access to read the investigation download) Investigate_a_Dataset.html
 
 ## Softwares needed:
 
