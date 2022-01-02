@@ -25,7 +25,7 @@ In this project, we will analyze a dataset and then communicate our findings abo
 ## Project in Details:
 ### Used Dataset: [noshowappointments-kagglev2-may-2016.csv](https://www.kaggle.com/joniarroba/noshowappointments)
 
-The No Show Dataset is a Medical dataset that has infromation on over a 100 thousand medical appointments in Brazil. It focuses on whether the patients attended their appointments or missed it. It contains information on patients such as age, Gender, whether they suffer from chronic diseases, Alcoholism or Disability, and whether they are enrolled in Brasilian welfare program "Bolsa Família". We will the dataset in detail and analyze it to find the relation between the available features and attending the appointment.
+The No Show Dataset is a Medical dataset that has information on over a 100 thousand medical appointments in Brazil. It focuses on whether the patients attended their appointments or missed it. It contains information on patients such as age, Gender, whether they suffer from chronic diseases, Alcoholism or Disability, and whether they are enrolled in Brazilian welfare program "Bolsa Família". We will the dataset in detail and analyze it to find the relation between the available features and attending the appointment.
 
 The project goes through 3 steps:
   1. General exploration
