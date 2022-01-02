@@ -12,9 +12,9 @@ In this project, we will analyze a dataset and then communicate our findings abo
 
 ## Softwares needed:
 
-- Python 3
-- Anaconda
-- jupyter notebook
+- [Python 3](https://www.python.org/downloads/)
+- [Anaconda](https://www.anaconda.com/products/individual)
+  - jupyter notebook "installed automatically with anaconda"
 
 ## Libraries needed:
 
